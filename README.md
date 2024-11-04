@@ -2,7 +2,7 @@
 # <div align="center">🧑‍💻 About me</div>  
   
 
-- I'm a diligent Software Engineer with over 2 years of experience in Javascript, Typescript, Golang and niche technologies like React.js, Node.js, Angular, & Tailwind CSS. 💁‍♂️  
+- I'm a diligent Software Engineer with over 4 years of experience in Javascript, Typescript, Golang and niche technologies like React.js, Node.js, Angular, & Tailwind CSS. 💁‍♂️  
   
 
 - I've proficiency in front-end development, responsive web design, and optimized user interfaces. 🙋‍♂️  
